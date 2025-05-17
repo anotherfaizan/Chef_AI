@@ -22,6 +22,13 @@ ChefAI is an AI-powered recipe generation tool that creates personalized recipes
 
 ---
 
+## 🧑‍💻 Author
+
+**Faizan Khan**  
+> Passionate about AI and backend development, with a focus on building efficient, clean, and scalable applications.
+
+---
+
 ### 🎯 Endpoint: Generate Recipe
 
 **URL**: `/ask/ai/recipeCreator`
@@ -38,13 +45,7 @@ ChefAI is an AI-powered recipe generation tool that creates personalized recipes
 **Example**:
 
 ```http
-GET /ask/ai/recipeCreator?ingredients=tomato,garlic&cuisine=Indian&dietaryRestriction=vegan`
+GET /ask/ai/recipeCreator?ingredients=tomato,garlic&cuisine=Indian&dietaryRestriction=vegan
 
----
 
-## 🧑‍💻 Author
 
-**Faizan Khan**  
-> Passionate about AI and backend development, with a focus on building efficient, clean, and scalable applications.
-
----
