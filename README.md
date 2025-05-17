@@ -38,7 +38,7 @@ ChefAI is an AI-powered recipe generation tool that creates personalized recipes
 **Example**:
 
 ```http
-GET /ask/ai/recipeCreator?ingredients=tomato,garlic&cuisine=Indian&dietaryRestriction=vegan
+GET /ask/ai/recipeCreator?ingredients=tomato,garlic&cuisine=Indian&dietaryRestriction=vegan`
 
 ---
 
